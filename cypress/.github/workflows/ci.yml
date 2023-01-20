@@ -1,3 +1,4 @@
+//nome da pipeline a ser executada
 name: End-to-end tests 🧪
 on: [push]
 jobs:
