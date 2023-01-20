@@ -1,5 +1,6 @@
 //nome da pipeline a ser executada
 name: End-to-end tests 🧪
+// sempre que realizado um push
 on: [push]
 jobs:
   cypress-run: 
