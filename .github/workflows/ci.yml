@@ -4,7 +4,6 @@ name: End-to-end tests 🧪
 on: [push]
 // aqui são os jobs a serem executados
 jobs:
-//
   cypress-run: 
     runs-on: ubuntu-20.04
     steps:
